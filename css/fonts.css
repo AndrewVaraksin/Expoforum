@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'PlumbC';
+    src: local('PlumbC-Bold'),
+        url('../fonts/PlumbC-Bold.woff2') format('woff2'),
+        url('../fonts/PlumbC-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PlumbMediumC';
+    src: local('PlumbMediumC'),
+        url('../fonts/PlumbMediumC.woff2') format('woff2'),
+        url('../fonts/PlumbMediumC.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Circe';
+    src: local('Circe'), local('Circe-Regular'),
+        url('../fonts/Circe-Regular.woff2') format('woff2'),
+        url('../fonts/Circe-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
